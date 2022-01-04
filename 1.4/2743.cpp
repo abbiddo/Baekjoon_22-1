@@ -7,14 +7,14 @@
 
 #include <iostream>
 int main(){
-	char a[100];
+	std::string a;
 	int i,cnt=0;
-	
+
 	std::cin>>a;
-	
+
 	for (i=0;a[i]!=0;i++)
 		cnt+=1;
-		
+
 	std::cout<<cnt;
 }
 
