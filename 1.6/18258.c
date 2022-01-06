@@ -56,6 +56,7 @@ int empty(){
 	if ((i-j)==0) return 1;
 	return 0;
 }
+
 int front(){
 	if ((i-j)==0) return -1;
 	return queue[j];
