@@ -17,7 +17,7 @@ void hanoi(int n, int a, int b, int c){
 	}
 	
 	else{
-		hanoi(n-1,a,c,b);
+		hanoi(n-1,a,c,b);          // 크게 보면 맨 위와 나머지로 볼 수 있음 (1 2, 1 3, 2 3)
 		hanoi(1,a,b,c);
 		hanoi(n-1,b,a,c);
 	}
