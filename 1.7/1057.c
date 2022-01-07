@@ -7,18 +7,13 @@
 
 #include <stdio.h>
 int main(){
-	int a,n,m,cnt=1;
+	int a,n,m,cnt=0;
 	scanf("%d %d %d",&a,&n,&m);
 	
-	while(1){
-		if(n%2==1) n++;
-		if(m%2==1) m++;
-		
-		if (n==m) break;
-		
-		cnt++;		
-		n/=2;
-		m/=2;
+	while(n!=m){
+		cnt++;	
+		n-=(n/2);
+		m-=(m/2);			
 	} 
 	printf("%d",cnt);
 }
