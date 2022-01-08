@@ -16,18 +16,14 @@ int main(){
 	a+=b;
 	
 	aa*=bb;
+	i=aa; 
 	
 	while(1){
-		if (aa%i==0 && a%i==0) {
-			aa/=i;
-			a/=i;
-			i=2;
-		}
-		i++;
-		if (i>aa && i>a) break;
+		if (aa%i==0 && a%i==0) break;
+		i--;
 	}
 	
-	cout<<a<<" "<<aa;
+	cout<<a/i<<" "<<aa/i;
 }
 
 /**
