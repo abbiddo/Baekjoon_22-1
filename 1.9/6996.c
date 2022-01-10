@@ -9,7 +9,7 @@
 #include <string.h>
 
 int main(){
-	char ana[200][100];
+	char ana[200][100],temp[101];
 	int n,i,j,jj,k=0;
 	
 	scanf("%d",&n);
@@ -17,26 +17,29 @@ int main(){
 		scanf("%s %s",ana[i],ana[i+100]);
 		k=0;
 		
+		strcpy(temp,ana[i+100]);
+		
 		if (strlen(ana[i])!=strlen(ana[i+100])) 
-			printf("%s & %s are NOT anagrams.\n",ana[i],ana[i+100]);
+			printf("%s & %s are NOT anagrams.\n",ana[i],temp);
 		
 		else{
 			k=0;
 			for (j=0;j<strlen(ana[i]);j++){
 				for (jj=0;jj<strlen(ana[i]);jj++){
 					if (ana[i][j]==ana[i+100][jj]){
+						ana[i+100][jj]=0;
 						k++;
 						break;
 					}
 				}
 				
 				if (k!=j+1){
-					printf("%s & %s are NOT anagrams.\n",ana[i],ana[i+100]);
+					printf("%s & %s are NOT anagrams.\n",ana[i],temp);
 					break;
 				}
 			}
 			
-			if (k==j) printf("%s & %s are anagrams.\n",ana[i],ana[i+100]);
+			if (j>=strlen(ana[i]) && k==j) printf("%s & %s are anagrams.\n",ana[i],temp);
 		}
 	}
 }
