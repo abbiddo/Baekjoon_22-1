@@ -7,28 +7,29 @@
 
 #include <stdio.h>
 int main(){
-	int n,m,k,i,yose[1000];
+	int n,m,k,i,j,jose[1000];
   
 	scanf("%d %d",&n,&m);
 	printf("<");
 	k=m-1;
 
-	for (i=0;i<n;i++) yose[i]=i+1;
+	for (i=0;i<n;i++) jose[i]=i+1;
 	
-	for (i=0;i<n;i++){
-		if (k>=n) k-=n;
-		if (yose[k]!=0){
-			printf("%d, ",yose[k]);
-			yose[k]=0;
-			k+=m;
-		}
-		else k++;
+	for (i=0;i<n-1;i++){
+		printf("%d, ",jose[k]);	
+		jose[k]=0;
+
+		for (j=0;j<m;j++){
+			k++;
+			if (k>=n) k-=n;
+			if (jose[k]==0)	j--;
+		}	
 	}
-	printf("\b\b>");
+	printf("%d>",jose[k]);
 }
   
 /**
 실행 결과
 7 3                    (입력) 
-<3, 6, 2, 5, 1, 4, 7>  (출력) 
+<3, 6, 2, 7, 5, 1, 4>  (출력) 
 **/ 
