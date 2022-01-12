@@ -14,6 +14,8 @@ int main(){
 	
 	for (i=0;i<nn;i++) cin>>n[i];
 	
+	if (nn==1) cout<<n[0]*n[0];
+	
 	while(1){
 		k=0;
 		for (i=0;i<nn;i++){
