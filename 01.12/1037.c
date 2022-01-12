@@ -8,22 +8,27 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int n[50],nn,i,j=4;
-	long long k;
+	int n[50],nn,i,j=4,temp;
 	cin>>nn;
 	
 	for (i=0;i<nn;i++) cin>>n[i];
 	
 	if (nn==1) cout<<n[0]*n[0];
 	
-	while(1){
-		k=0;
-		for (i=0;i<nn;i++){
-			if (j==n[i]) break;
-			if (j%n[i]==0) k++;
-		}
-		j++;
-		if (k==nn) break;
-	}	
-	cout<<j-1;
+	else{	
+		for (i=0;i<nn-1;i++)
+			for (j=0;j<nn-i-1;j++)
+				if (n[j]>n[j+1]){
+					temp=n[j];
+					n[j]=n[j+1];
+					n[j+1]=temp;
+				}
+		cout<<n[0]*n[nn-1];
+	}
 }
+
+/**
+14      (입력) 
+14 26456 2 28 13228 3307 7 23149 8 6614 46298 56 4 92596
+185192  (출력) 
+**/ 
