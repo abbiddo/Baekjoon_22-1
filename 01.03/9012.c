@@ -9,7 +9,7 @@
 #include <string.h>
 int main(){
 	int n,i,j,cnt=0;
-	char a[10000][50];
+	char a[10000][51];
 	scanf("%d",&n);
 	
 	for (i=0;i<n;i++) scanf("%s",a[i]);
