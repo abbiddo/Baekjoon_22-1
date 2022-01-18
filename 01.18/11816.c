@@ -9,7 +9,7 @@
 int main()
 {
     int n;
-    scanf("%i",&n); 
+    scanf("%i",&n);  // 8진수, 10진수, 16진수 모두 받은 수 있는 서식문자
     printf("%d",n);
 }
 
