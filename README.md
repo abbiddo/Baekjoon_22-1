@@ -4,3 +4,4 @@
 * X : 해결 못 함
 * S (study) : 공부
 * D (day) : 다른 날 해결
+* Q (question) : 질문 올림
