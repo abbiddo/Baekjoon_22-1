@@ -13,6 +13,8 @@ int main(){
 	scanf("%d",&n);
 	for (i=0;i<n;i++){
 		scanf("%s",name);
+		al=0;
+		nu=0;
 		al+=(26*26*(name[0]-65))+(26*(name[1]-65))+(name[2]-65);
 		nu+=(1000*(name[4]-48)+100*(name[5]-48)+10*(name[6]-48)+name[7]-48);
 		
