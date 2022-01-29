@@ -7,3 +7,4 @@
 * Q (question) : 질문 올림
 * M (memory) : 기록
 * E (explain) : 설명 
+* Ee (error explain) : 오류 설명
