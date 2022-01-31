@@ -1,40 +1,27 @@
 /**
 프로그램명 : 2156.cpp
 설명 : 포도주 시식 
-작성일시 : 2022.01.30
+작성일시 : 2022.01.30 -> 31
 작성자 : 정소영
 **/
 
 #include <iostream>
 using namespace std;
 int main(){
-	int n,i,j,k,sum=0,m,cur;
-	int w[10000]={0};
-	int re[3]={0};
+	int s[10003]={0};
+	int r[10003]={0};
+	int n,i;
 	
 	cin>>n;
 	
-	for (i=0;i<n;i++){
-		cin>>w[i];
-		sum+=w[i];
-	}
-		
-	for (i=0;i<3;i++){
-		re[i]=w[i];
-		cur=i+1;
-		while(cur<=n-3){
-			m=1001;
-			for (j=cur;j<cur+3;j++){
-				if (m>=w[j]){
-					m=w[j];
-					k=j;
-				}
-			}
-			re[i]+=m;
-			cur=k+1;
-		}
-	}
-	cout<<sum-min(re[0],min(re[1],re[2]));
+	for (i=3;i<n+3;i++) cin>>s[i];
+	
+	r[3]=s[3];
+	r[4]=s[3]+s[4];
+	
+	for (i=5;i<n+3;i++) r[i]=max(s[i]+s[i-1]+r[i-3],max(s[i]+s[i-2]+s[i-3]+r[i-5],max(s[i-1]+s[i-2]+r[i-4],s[i]+s[i-2]+r[i-4])));
+	
+	cout<<r[n+2];
 }
 
 /**
