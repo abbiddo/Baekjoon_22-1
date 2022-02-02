@@ -15,7 +15,7 @@ int main(){
 	for (int i=0;i<n;i++){
 		cin>>k;
 		if (k>=j) 
-			for (int l=j;l<=k;l++) p[j++]=p[j-2]+p[j-6];
+			for (int l=j;l<=k;l++) p[j++]=p[j-1]+p[j-5];
 		cout<<p[k]<<'\n';
 	}
 }
@@ -27,4 +27,4 @@ int main(){
 12
 16
 
-**/ 
+**/
