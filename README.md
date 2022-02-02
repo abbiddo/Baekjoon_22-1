@@ -12,7 +12,7 @@
 * M (memory) : 기록 <br>
   1569 1932 2156 2579 1149 <br>
 * E (explain) : 설명 <br>
-  11866 1032 1003 1871 13163 2859 8462 1769 <br>
+  11866 1032 1003 1871 13163 2859 8462 1769 9462 <br>
 * Ee (error explain) : 오류 설명 <br>
   10953 <br>
 
@@ -118,7 +118,7 @@
   
 * <02.01><br>
   M 1149 RGB distance<br>
-  QE 9462 Padovan squence<br>
+  E 9462 Padovan squence<br>
 
 * <02.02><br>
   E 1769 3's multiple<br> 
