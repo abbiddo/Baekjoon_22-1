@@ -1,22 +1,21 @@
 # Baekjoon_22-1
-22년 백준
 
-* X : 해결 못 함 <br>
+### X : 해결 못 함 <br>
   1051 10814 1181 1920 1914 2981 <br>
-* S (study) : 공부 <br>
+### S (study) : 공부 <br>
   11729 11656 11816 15904 11718 1463 1448 <br>
-* D (day) : 다른 날 해결 <br>
+### D (day) : 다른 날 해결 <br>
   6996 2156 9461 <br>
-* Q (question) : 질문 올림 <br>
+### Q (question) : 질문 올림 <br>
   9462 <br>
-* M (memory) : 기록 <br>
+### M (memory) : 기록 <br>
   1569 1932 2156 2579 1149 9461 <br>
-* E (explain) : 설명 <br>
+### E (explain) : 설명 <br>
   11866 1032 1003 1871 13163 2859 8462 1769 9461 <br>
-* Ee (error explain) : 오류 설명 <br>
+### Ee (error explain) : 오류 설명 <br>
   10953 <br>
 
-<h2>DAY</h2>
+## DAY
 
 * <01.01><br>
   1073 stack<br>
