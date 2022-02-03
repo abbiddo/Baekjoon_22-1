@@ -1,5 +1,8 @@
 # Baekjoon_22-1
 
+<details>
+    <summary>약자 설명</summary>
+  
 ### X : 해결 못 함 <br>
   1051 10814 1181 1920 1914 2981 <br>
 ### S (study) : 공부 <br>
@@ -14,9 +17,17 @@
   11866 1032 1003 1871 13163 2859 8462 1769 9461 <br>
 ### Ee (error explain) : 오류 설명 <br>
   10953 <br>
+  
+</details>
 
 ## DAY
 
+<details>
+    <summary>2022년 01월</summary>
+
+<details>
+    <summary>1주차</summary>
+    
 * <01.01><br>
   1073 stack<br>
   10828 stack<br>
@@ -26,6 +37,11 @@
   X 1051 number rectangle<br>
   X 10814 age sorting<br>
   X 1181 word sorting<br>
+    
+</details>
+
+<details>
+    <summary>2주차</summary>
   
 * <01.03><br>
   D 9012 parenthesis<br>
@@ -56,6 +72,11 @@
   X 1914 hanoi<br>
   D 6996 anagram<br>
   
+</details>
+  
+<details>
+    <summary>3주차</summary>
+  
 * <01.10><br>
   10808 alphabet count<br>
   
@@ -77,6 +98,11 @@
   4335 guess the number<br>
   4796 camping days<br>
   
+</details>
+  
+<details>
+    <summary>4주차</summary>
+  
 * <01.18><br>
   S 11816 8, 10, 16<br>
   
@@ -94,6 +120,11 @@
   S 1463 make 1<br>
   M 1569 covering dots with squares<br>
   2747 fibonacci<br>
+    
+</details>
+  
+<details>
+    <summary>5주차</summary>
   
 * <01.26><br>
   E 13163 got + name<br>
@@ -114,6 +145,10 @@
 
 * <01.31><br>
   M 2579 stair<br>
+  
+</details>
+</details>
+  
   
 * <02.01><br>
   M 1149 RGB distance<br>
