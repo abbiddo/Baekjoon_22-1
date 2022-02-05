@@ -92,16 +92,16 @@
 * <01.16><br>
   1343 polyomino<br>
   2018 sum of continuous numbers<br>
-  
+
+</details>
+    
+<details>
+    <summary>4주차</summary>
+    
 * <01.17><br>
   2822 the sum of the score excluding 3 minimum value<br>
   4335 guess the number<br>
   4796 camping days<br>
-  
-</details>
-  
-<details>
-    <summary>4주차</summary>
   
 * <01.18><br>
   S 11816 8, 10, 16<br>
@@ -111,7 +111,12 @@
   
 * <01.21><br>
   S 11718 original string<br>
- 
+     
+</details>
+  
+<details>
+    <summary>5주차</summary>
+    
 * <01.24><br>
   1373 2 -> 8
   E 1871 string (char, int)<br>
@@ -120,11 +125,6 @@
   S 1463 make 1<br>
   M 1569 covering dots with squares<br>
   2747 fibonacci<br>
-    
-</details>
-  
-<details>
-    <summary>5주차</summary>
   
 * <01.26><br>
   E 13163 got + name<br>
@@ -156,4 +156,7 @@
 
 * <02.02><br>
   E 1769 3's multiple<br> 
+    
+* <02.09><br>
+  2999 array row, column reverse
   
