@@ -11,7 +11,7 @@
   6996 2156 9461 <br>
 ### Q (question) : 질문 올림 <br>
 ### M (memory) : 기록 <br>
-  1569 1932 2156 2579 1149 9461 <br>
+  1569 1932 2156 2579 1149 9461 1018 <br>
 ### E (explain) : 설명 <br>
   11866 1032 1003 1871 13163 2859 8462 1769 9461 <br>
 ### Ee (error explain) : 오류 설명 <br>
@@ -159,4 +159,4 @@
 * <02.06><br>
   2999 array row, column reverse
   2108 statistics
-  
+  1018 chess board color
