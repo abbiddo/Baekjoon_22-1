@@ -157,6 +157,6 @@
   E 1769 3's multiple<br> 
     
 * <02.06><br>
-  2999 array row, column reverse
-  2108 statistics
-  1018 chess board color
+  2999 array row, column reverse<br>
+  2108 statistics<br>
+  1018 chess board color<br>
