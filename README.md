@@ -157,6 +157,6 @@
 * <02.02><br>
   E 1769 3's multiple<br> 
     
-* <02.09><br>
+* <02.06><br>
   2999 array row, column reverse
   
