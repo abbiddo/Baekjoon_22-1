@@ -159,4 +159,4 @@
 * <02.06><br>
   2999 array row, column reverse<br>
   2108 statistics<br>
-  1018 chess board color<br>
+  M 1018 chess board color<br>
