@@ -4,14 +4,14 @@
     <summary>약자 설명</summary>
   
 ### X : 해결 못 함 <br>
-  1051 10814 1914 2981 <br>
+  1051 1914 2981 <br>
 ### S (study) : 공부 <br>
-  11729 11656 11816 15904 11718 1463 1448 2108 1181 1920 <br>
+  11729 11656 11816 15904 11718 1463 1448 2108 1181 1920 10814 <br>
 ### D (day) : 다른 날 해결 <br>
-  9012 6996 2156 9461 1181 1920 <br>
+  9012 6996 2156 9461 1181 1920 10814 <br>
 ### Q (question) : 질문 올림 <br>
 ### M (memory) : 기록 <br>
-  1569 1932 2156 2579 1149 9461 1018 <br>
+  1569 1932 2156 2579 1149 9461 1018 10814 <br>
 ### E (explain) : 설명 <br>
   11866 1032 1003 1871 13163 2859 8462 1769 9461 <br>
 ### Ee (error explain) : 오류 설명 <br>
@@ -31,8 +31,8 @@
   
 * <01.02><br>
   X 1051 number rectangle<br>
-  X 10814 age sorting<br>
-  X 1181 word sorting<br>
+  MSD 10814 age sorting<br>
+  SD 1181 word sorting<br>
   
 * <01.03><br>
   D 9012 parenthesis<br>
@@ -145,3 +145,6 @@
 * <02.07><br>
   SD 1181 word sorting<br>
   SD 1920 searching<br>
+    
+* <02.08><br>
+  MSD 10814 age sorting<br>
