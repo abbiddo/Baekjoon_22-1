@@ -4,11 +4,11 @@
     <summary>약자 설명</summary>
   
 ### X : 해결 못 함 <br>
-  1051 10814 1181 1920 1914 2981 <br>
+  1051 10814 1920 1914 2981 <br>
 ### S (study) : 공부 <br>
-  11729 11656 11816 15904 11718 1463 1448 2108 <br>
+  11729 11656 11816 15904 11718 1463 1448 2108 1181 <br>
 ### D (day) : 다른 날 해결 <br>
-  6996 2156 9461 <br>
+  9012 6996 2156 9461 1181 <br>
 ### Q (question) : 질문 올림 <br>
 ### M (memory) : 기록 <br>
   1569 1932 2156 2579 1149 9461 1018 <br>
@@ -23,9 +23,6 @@
 
 <details>
     <summary>2022년 01월</summary>
-
-<details>
-    <summary>1주차</summary>
     
 * <01.01><br>
   1073 stack<br>
@@ -36,11 +33,6 @@
   X 1051 number rectangle<br>
   X 10814 age sorting<br>
   X 1181 word sorting<br>
-    
-</details>
-
-<details>
-    <summary>2주차</summary>
   
 * <01.03><br>
   D 9012 parenthesis<br>
@@ -71,13 +63,9 @@
   X 1914 hanoi<br>
   D 6996 anagram<br>
   
-</details>
-  
-<details>
-    <summary>3주차</summary>
-  
 * <01.10><br>
   10808 alphabet count<br>
+  D 6996 anagram<br>
   
 * <01.11><br>
   E 1003 fibonacci<br>
@@ -87,15 +75,11 @@
   
 * <01.13><br>
   X 2981 factor list<br>
+  D 9012 parenthesis<br>
   
 * <01.16><br>
   1343 polyomino<br>
   2018 sum of continuous numbers<br>
-
-</details>
-    
-<details>
-    <summary>4주차</summary>
     
 * <01.17><br>
   2822 the sum of the score excluding 3 minimum value<br>
@@ -110,11 +94,6 @@
   
 * <01.21><br>
   S 11718 original string<br>
-     
-</details>
-  
-<details>
-    <summary>5주차</summary>
     
 * <01.24><br>
   1373 2 -> 8
@@ -144,10 +123,9 @@
 
 * <01.31><br>
   M 2579 stair<br>
-  
+  MD 2156 grape wine<br>
+    
 </details>
-</details>
-  
   
 * <02.01><br>
   M 1149 RGB distance<br>
@@ -156,7 +134,13 @@
 * <02.02><br>
   E 1769 3's multiple<br> 
     
+* <02.03><br>
+  MED 9461 Padovan squence<br>
+    
 * <02.06><br>
   2999 array row, column reverse<br>
   2108 statistics<br>
   M 1018 chess board color<br>
+    
+* <02.07><br>
+  SD 1181 word sorting<br>
