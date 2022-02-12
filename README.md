@@ -6,14 +6,14 @@
 ### X : 해결 못 함 <br>
   1051 1914 2981 <br>
 ### S (study) : 공부 <br>
-  11729 11656 11816 15904 11718 1463 1448 2108 1181 1920 10814 10816 15829 1966 17219 <br>
+  11729 11816 11718 1463 1448 2108 1181 1920 10814 10816 15829 1966 17219 <br>
 ### D (day) : 다른 날 해결 <br>
   9012 6996 2156 9461 1181 1920 10814 <br>
 ### Q (question) : 질문 올림 <br>
 ### M (memory) : 기록 <br>
   1569 1932 2156 2579 1149 9461 1018 10814 11650 10816 10989 1654 17219 1620 <br>
 ### E (explain) : 설명 <br>
-  11866 1032 1003 1871 13163 2859 8462 1769 9461 4949 <br>
+  11866 1032 11656 1003 1871 13163 2859 8462 1769 9461 4949 <br>
 ### Ee (error explain) : 오류 설명 <br>
   10953 <br>
   
@@ -31,8 +31,8 @@
   
 * <01.02><br>
   X 1051 number rectangle<br>
-  MSD 10814 age sorting<br>
-  SD 1181 word sorting<br>
+  D 10814 age sorting<br>
+  D 1181 word sorting<br>
   
 * <01.03><br>
   D 9012 parenthesis<br>
@@ -46,26 +46,25 @@
 * <01.06><br>
   10798 column reading<br>
   E 11866 josephus<br>
-  18528 queue<br>
+  18258 queue<br>
   2164 card queue<br>
   
 * <01.07><br>
   1057 tournament<br>
   S 11729 hanoi<br>
-  SD 1920 searching<br>
+  D 1920 searching<br>
   
 * <01.08><br>
   1735 fraction sum<br>
   
 * <01.09><br>
   E 1032 cmd string<br>
-  S 11656 suffix sorting<br>
+  E 11656 suffix sorting<br>
   X 1914 hanoi<br>
   D 6996 anagram<br>
   
 * <01.10><br>
   10808 alphabet count<br>
-  D 6996 anagram<br>
   
 * <01.11><br>
   E 1003 fibonacci<br>
@@ -75,7 +74,6 @@
   
 * <01.13><br>
   X 2981 factor list<br>
-  D 9012 parenthesis<br>
   
 * <01.16><br>
   1343 polyomino<br>
@@ -90,7 +88,7 @@
   S 11816 8, 10, 16<br>
   
 * <01.19><br>
-  S 15904 abbreviation<br>
+  15904 abbreviation<br>
   
 * <01.21><br>
   S 11718 original string<br>
