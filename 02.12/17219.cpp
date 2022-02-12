@@ -6,9 +6,33 @@
 **/
 
 #include <iostream>
+#include <algorithm>
 using namespace std;
-string arr[100000][2];
 string s[100000];
+
+class person{
+	public:
+		string id;
+		string psw;
+};
+
+person *p=new person[100000];
+
+bool compa(person a, person b){
+	return a.id<b.id;
+}
+
+int search(int e, int i){
+	int st=0,m;
+	while(st<=e){
+		m=(st+e)/2;
+		
+		if (p[m].id>=s[i]) e=m-1;
+		else st=m+1;
+	}
+	return st;
+}
+
 int main(){
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -16,15 +40,13 @@ int main(){
 	int n,m;
 	cin>>n>>m;
 	
-	for (int i=0;i<n;i++) cin>>arr[i][0]>>arr[i][1];
+	for (int i=0;i<n;i++) cin>>p[i].id>>p[i].psw;
+	
+	sort(p,p+n,compa);
+	
 	for (int i=0;i<m;i++) {
 		cin>>s[i];
-		for (int j=0;j<n;j++){
-			if (arr[j][0]==s[i]){
-				cout<<arr[j][1]<<'\n';
-				break;
-			}
-		}
+		cout<<p[search(n,i)].psw<<"\n";
 	}
 }
 
