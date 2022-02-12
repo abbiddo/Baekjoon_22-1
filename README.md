@@ -169,3 +169,4 @@
 
 * <02.12><br> 
   SM 17219 search password<br>
+  1676 factorial 0 count<br>
