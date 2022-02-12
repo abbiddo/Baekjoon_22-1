@@ -30,4 +30,4 @@ int main(){
 실행 결과
 Union of Computer Programming Contest club contest     (입력) 
 I love UCPC     (출력) 
-**/ 
+**/
