@@ -17,7 +17,7 @@ int main(){
     		w[i][j-i]=word[j];
 	
   // 버블 정렬 범위 * len-1 * 
-	for (i=0;i<strlen(word)-1;i++){
+	for (i=0;i<strlen(word)-1;i++) {
 		for (j=0;j<strlen(word)-i-1;j++){
 			if (strcmp(w[j],w[j+1])>0){
 				strcpy(temp,w[j]);
