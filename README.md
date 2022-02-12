@@ -4,7 +4,7 @@
     <summary>약자 설명</summary>
   
 ### X : 해결 못 함 <br>
-  1051 1914 2981 <br>
+  1051 1914 2981 17219<br>
 ### S (study) : 공부 <br>
   11729 11656 11816 15904 11718 1463 1448 2108 1181 1920 10814 10816 15829 1966 <br>
 ### D (day) : 다른 날 해결 <br>
@@ -166,3 +166,6 @@
   M 1654 mkae LAN cable<br>
   1874 stack sequence<br>
   18111 same height<br>
+
+* <02.12><br> 
+  X 17219 search password<br>
