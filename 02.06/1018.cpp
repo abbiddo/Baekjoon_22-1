@@ -77,4 +77,4 @@ BBBBBBBBBWBWB
 WWWWWWWWWWBWB
 WWWWWWWWWWBWB
 12             (출력)
-**/ 
+**/
