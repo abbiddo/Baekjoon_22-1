@@ -11,7 +11,7 @@ int main(){
 	char name[10];
 	
 	scanf("%d",&n);
-	for (i=0;i<n;i++){
+	for (i=0;i<n;i++) {
 		scanf("%s",name);
 		al=0;
 		nu=0;
