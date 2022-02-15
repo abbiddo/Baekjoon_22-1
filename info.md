@@ -53,6 +53,7 @@
 * 17219 : 비밀번호 찾기 / 이분 탐색 <br>
 * 1620 : 포켓몬 / class <br>
 * 18870 : 좌표 압축 / class <br>
+* 7662 : 이중 우선순위 큐 <br>
     
 </details>
     
@@ -68,6 +69,7 @@
 * 1769 : 3의 배수 / biginteger <br>
 * 2108 : C qsort 함수 (compare) / 절댓값 배열 크기 - n*2+1 (0) <br>
 * 4949 : queue 비었는지 확인 <br>
+* 7662 : queue top/pop 비었을 때 사용하면 오류 <br>
     
 </details>
     
@@ -75,6 +77,7 @@
     <summary>Ee (error explain) : 오류 설명</summary>
     
 * 10953 : OutOfBounds - 입력값을 다 받지 못 함 <br>
+* 7662 : Segfault - 잘못된 메모리 접근 <br>
     
 </details>
     
