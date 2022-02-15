@@ -154,4 +154,5 @@
 * <02.14><br>
   11279 heap (priority_queue)<br>
   11723 set<br>
+  S 1927 minimum heap (priority_queue)<br>
   9375 search and count string (fashion king)<br>
