@@ -1,7 +1,4 @@
-# Baekjoon_22-1
-
-<details>
-    <summary>약자 설명</summary>
+# 약자 설명
   
 <details>
     <summary>X : 해결 못 함</summary>
@@ -27,6 +24,7 @@
 * 15829 : 나머지 연산자 특성 / += 조심성 <br>
 * 1966 : priority_queue / queue - pair <br>
 * 17219 : 문자열 <, > 비교 가능 / 이분 탐색 반환 값 <br>
+* 1927 : priority_queue 오름차순 (벡터)
     
 </details>
     
@@ -87,5 +85,4 @@
 * 1149 : RGB 거리 / 동적 계획법 <br>
 * 1018 : 체스판 / 브루트 포스 <br>
     
-</details>
 </details>
