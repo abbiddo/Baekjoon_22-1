@@ -156,3 +156,9 @@
   11723 set<br>
   S 1927 minimum heap (priority_queue)<br>
   9375 search and count string (fashion king)<br>
+
+* <02.15><br>
+  11286 abs heap (priority_queue)<br>
+  11726 2*n tile<br>
+  11727 2*n tile 2<br>
+  MEEe 7662 double priority_queue<br>
