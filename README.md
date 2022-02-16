@@ -159,6 +159,6 @@
 
 * <02.15><br>
   11286 abs heap (priority_queue)<br>
-  11726 2*n tile<br>
-  11727 2*n tile 2<br>
+  11726 2n tile<br>
+  11727 2n tile 2<br>
   MEEe 7662 double priority_queue<br>
