@@ -162,3 +162,8 @@
   11726 2n tile<br>
   11727 2n tile 2<br>
   MEEe 7662 double priority_queue<br>
+  
+* <02.16><br> 
+  1063 king & stone (coordinate)<br>
+  S 2807 search number in string<br>
+  3613 JAVA vs C++<br>
