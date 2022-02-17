@@ -6,6 +6,7 @@
 * 1051 number rectangle <br>
 * 1914 hanoi <br>
 * 2981 나머지를 같게 하는 수 <br>
+* 9421 prime 1<br>
     
 </details>
     
@@ -88,5 +89,6 @@
 * 1932 : 정수 삼각형 최대 / 동적 계획법 <br>
 * 1149 : RGB 거리 / 동적 계획법 <br>
 * 1018 : 체스판 / 브루트 포스 <br>
+* 1931 : office<br>
     
 </details>
