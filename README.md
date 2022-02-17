@@ -167,3 +167,7 @@
   1063 king & stone (coordinate)<br>
   S 2807 search number in string<br>
   3613 JAVA vs C++<br>
+    
+* <02.17><br> 
+  H 1931 office<br>
+  X 9421 prime 1<br>
