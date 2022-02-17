@@ -169,5 +169,8 @@
   3613 JAVA vs C++<br>
     
 * <02.17><br> 
+  11724 count connetion<br>
+  H 1260 DFS BFS<br>
   H 1931 office<br>
+  2606 virus<br>
   X 9421 prime 1<br>
