@@ -174,3 +174,9 @@
   H 1931 office<br>
   2606 virus<br>
   X 9421 prime 1<br>
+
+* <02.18><br> 
+  H 1697 hide and seek<br>
+  17626 four squares<br>
+  M 2630 make colored paper<br>
+  9095 plus 1, 2, 3<br>
