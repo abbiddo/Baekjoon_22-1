@@ -56,6 +56,7 @@
 * 1620 : 포켓몬 / class <br>
 * 18870 : 좌표 압축 / class <br>
 * 7662 : 이중 우선순위 큐 <br>
+* 2630 : make colored paper <br>
     
 </details>
     
@@ -91,5 +92,6 @@
 * 1018 : 체스판 / 브루트 포스 <br>
 * 1931 : office<br>
 * 1260 : DFS BFS<br>
+* 1697 : hide and seek / BFS <br>
     
 </details>
