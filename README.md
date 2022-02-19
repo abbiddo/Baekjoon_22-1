@@ -180,3 +180,7 @@
   17626 four squares<br>
   M 2630 make colored paper<br>
   9095 plus 1, 2, 3<br>
+    
+* <02.19><br>
+  M 1992 quad tree<br>
+  E 6064 calendar<br>
