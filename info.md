@@ -57,6 +57,7 @@
 * 18870 : 좌표 압축 / class <br>
 * 7662 : 이중 우선순위 큐 <br>
 * 2630 : make colored paper <br>
+* 1992 : quad tree <br>
     
 </details>
     
@@ -73,7 +74,8 @@
 * 2108 : C qsort 함수 (compare) / 절댓값 배열 크기 - n*2+1 (0) <br>
 * 4949 : queue 비었는지 확인 <br>
 * 7662 : queue top/pop 비었을 때 사용하면 오류 <br>
-    
+* 6064 : calendar / 나머지 <br>
+  
 </details>
     
 <details>
