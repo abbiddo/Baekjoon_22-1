@@ -184,3 +184,7 @@
 * <02.19><br>
   M 1992 quad tree<br>
   E 6064 calendar<br>
+
+* <02.20><br>
+  2217 rope<br>
+  2960 에라토스테네스의 체<br>
