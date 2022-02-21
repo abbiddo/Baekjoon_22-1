@@ -58,6 +58,8 @@
 * 7662 : 이중 우선순위 큐 <br>
 * 2630 : make colored paper <br>
 * 1992 : quad tree <br>
+* 1012 : cabbage <br>
+* 1541 : missing parenthesis <br>
     
 </details>
     
