@@ -188,3 +188,9 @@
 * <02.20><br>
   2217 rope<br>
   2960 에라토스테네스의 체<br>
+
+* <02.21><br>
+  M 1012 cabbage<br>
+  1107 remote control<br>
+  M 1541 missing parenthesis<br>
+  1780 count paper<br>
