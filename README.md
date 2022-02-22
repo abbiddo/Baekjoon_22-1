@@ -112,7 +112,7 @@
     
 * <02.06><br>
   2999 array row, column reverse<br>
-  E 2108 statistics<br>
+  DE 2108 statistics<br>
   H 1018 chess board color<br>
     
 * <02.07><br>
@@ -194,3 +194,8 @@
   1107 remote control<br>
   M 1541 missing parenthesis<br>
   1780 count paper<br>
+    
+* <02.22><br>
+  10026 RGb<br>
+  2667 count apartment<br>
+  M 7576 tomato<br>
