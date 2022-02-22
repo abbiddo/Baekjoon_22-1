@@ -1,7 +1,7 @@
 /**
 프로그램명 : 2108.c
 설명 : 통계학 
-작성일시 : 2022.02.06
+작성일시 : 2022.02.06 -> 22 (재채점)
 작성자 : 정소영
 **/
 
@@ -25,6 +25,7 @@ int main(){
 		num[a[i]+4000]++;
 	}
 	
+	if ((double)sum/n>-1 && (double)sum/n<0) printf("0\n");
 	printf("%.0f\n",(double)sum/n);
 	
 	qsort(a,n,4,compare);
