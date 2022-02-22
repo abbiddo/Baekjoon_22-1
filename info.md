@@ -33,7 +33,7 @@
 <details>
     <summary>D (day) : 다른 날 해결</summary>
 
-10814 1181 9012 1920 6996 2156 9461 1181 1920 10814 <br>
+10814 1181 9012 1920 6996 2156 9461 1181 1920 10814 2108(재채점)<br>
  
 </details>
     
@@ -60,7 +60,8 @@
 * 1992 : quad tree <br>
 * 1012 : cabbage <br>
 * 1541 : missing parenthesis <br>
-    
+* 7576 : tomato <br>
+  
 </details>
     
 <details>
@@ -73,7 +74,7 @@
 * 2859 <br>
 * 9461 : 파도반 수열 / ++연산자 <br>
 * 1769 : 3의 배수 / biginteger <br>
-* 2108 : C qsort 함수 (compare) / 절댓값 배열 크기 - n*2+1 (0) <br>
+* 2108 : C qsort 함수 (compare) / 절댓값 배열 크기 - n*2+1 (0) / -0 <br>
 * 4949 : queue 비었는지 확인 <br>
 * 7662 : queue top/pop 비었을 때 사용하면 오류 <br>
 * 6064 : calendar / 나머지 <br>
