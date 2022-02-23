@@ -10,7 +10,7 @@ using namespace std;
 int arr[101][101];
 int num[10000][2];
 int num2[10000][2];
-int n,m,c=1,cc=0,cnt=0;
+int n,m,c=1,cc=0;
 char k;
 
 int sear(int i, int j){
@@ -83,7 +83,7 @@ int main(){
 			arr[i][j]=k-'0';
 		}
 		
-	for (int i=0;i<n*m*10;i++){
+	for (int i=0;i<n*m;i++){
 		if (arr[n-1][m-1]!=1){
 			cout<<arr[n-1][m-1];
 			return 0;
