@@ -62,6 +62,7 @@
 * 1012 : cabbage <br>
 * 1541 : missing parenthesis <br>
 * 7576 : tomato <br>
+* 2178 : maze <br>
   
 </details>
     
