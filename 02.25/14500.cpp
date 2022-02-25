@@ -80,7 +80,7 @@ void L8(){
 void z1(){
 	for (int i=0;i<n-2;i++)
 		for (int j=0;j<m-1;j++)
-			ma=max(ma,arr[i][j]+arr[i][j+1]+arr[i+1][j+1]+arr[i+2][j+1]);
+			ma=max(ma,arr[i][j]+arr[i+1][j]+arr[i+1][j+1]+arr[i+2][j+1]);
 }
 
 void z2(){
