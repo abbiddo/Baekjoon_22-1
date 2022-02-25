@@ -103,5 +103,6 @@
 * 1260 : DFS BFS<br>
 * 1697 : hide and seek / BFS <br>
 * 5525 : IOIOI / 시간 복잡도 <br>
-    
+* 16928 : snake and ladder / BFS <br>
+  
 </details>
