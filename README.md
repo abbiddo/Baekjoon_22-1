@@ -220,6 +220,7 @@
 
 * <02.26><br>
   H 11053 longest sequence<br>
+  1244 switch on off<br>
   H 12851 hide and seek 2<br>
   Q 16953 A -> B<br>
   X 1753 minimum route<br>
