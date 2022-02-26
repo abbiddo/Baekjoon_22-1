@@ -217,3 +217,10 @@
   14500 tetromino<br>
   H 16928 snake and ladder<br>
   9019 DSLR<br>
+
+* <02.26><br>
+  H 11053 longest sequence<br>
+  H 12851 hide and seek 2<br>
+  Q 16953 A -> B<br>
+  X 1753 minimum route<br>
+  M 9935 string bumb<br>
