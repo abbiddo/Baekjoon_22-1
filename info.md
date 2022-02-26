@@ -6,7 +6,8 @@
 * 1051 number rectangle <br>
 * 1914 hanoi <br>
 * 2981 나머지를 같게 하는 수 <br>
-* 9421 prime 1<br>
+* 9421 prime 1 <br>
+* 1753 minimum route <br>
     
 </details>
     
@@ -40,6 +41,7 @@
     
 <details>
     <summary>Q (question) : 질문 올림</summary>
+ * 16953 : A -> B <br>
     
 </details>
     
@@ -64,6 +66,7 @@
 * 7576 : tomato <br>
 * 2178 : maze <br>
 * 16236 : baby shark <br>
+* 9935 : string bumb <br>
   
 </details>
     
@@ -104,5 +107,7 @@
 * 1697 : hide and seek / BFS <br>
 * 5525 : IOIOI / 시간 복잡도 <br>
 * 16928 : snake and ladder / BFS <br>
+* 11053 : longest sequence / dp <br>
+* 12851 : hide and seek 2 / BFS <br>
   
 </details>
