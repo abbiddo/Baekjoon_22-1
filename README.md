@@ -202,7 +202,7 @@
 
 * <02.23><br>
   1074 Z<br>
-  S 11403 search rout<br>
+  S 11403 search route<br>
   M 2178 maze<br>
   E 7569 tomato 2<br>
 
