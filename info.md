@@ -35,13 +35,12 @@
 <details>
     <summary>D (day) : 다른 날 해결</summary>
 
-10814 1181 9012 1920 6996 2156 9461 1181 1920 10814 2108(재채점)<br>
+10814 1181 9012 1920 6996 2156 9461 1181 1920 10814 2108(재채점) 16953 <br>
  
 </details>
     
 <details>
     <summary>Q (question) : 질문 올림</summary>
- * 16953 : A -> B <br>
     
 </details>
     
@@ -109,5 +108,6 @@
 * 16928 : snake and ladder / BFS <br>
 * 11053 : longest sequence / dp <br>
 * 12851 : hide and seek 2 / BFS <br>
+* 2096 : climbing down / dp <br>
   
 </details>
