@@ -222,6 +222,11 @@
   H 11053 longest sequence<br>
   1244 switch on off<br>
   H 12851 hide and seek 2<br>
-  Q 16953 A -> B<br>
+  D 16953 A -> B<br>
   X 1753 minimum route<br>
   M 9935 string bumb<br>
+    
+* <02.27><br>
+  15650 N&M 2<br>
+  17070 move pipe<br>
+  H 2096 climbing down<br>
