@@ -1,7 +1,7 @@
 /**
 프로그램명 : 16953.cpp
 설명 : A -> B 
-작성일시 : 2022.02.26
+작성일시 : 2022.02.26 -> 27
 작성자 : 정소영 
 **/
 
@@ -9,9 +9,9 @@
 #include <queue>
 using namespace std;
 
-long long a,b;
+long long a,b,k;
 
-void bfs(){
+int bfs(){
 	queue<pair<long long, long long>> q;
 	q.push({a,1});
 	while(!q.empty()){
@@ -20,30 +20,32 @@ void bfs(){
 		q.pop();
 		
 		if (n==b){
-			cout<<t;
-			return;
-		}
-		else if (n>b*b){
-			cout<<-1;
-			return;
+			return t;
 		}
 		
-		if (n*2<=1000000000){
+		if (n*2<=b){
 			q.push({n*2,t+1});
 		}
 		
-		if (n*10+1<=1000000000){
+		if (n*10+1<=b){
 			q.push({n*10+1,t+1});
 		}
 	}
+	return -1;
 }
 
 int main(){
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	
+	long long aa,bb;
 	cin>>a>>b;
-	bfs();
+	aa=a;bb=b;
+	while(bb){
+		k++;
+		bb/=2;
+	}
+	cout<<bfs();
 }
 
 /**
