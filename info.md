@@ -83,6 +83,7 @@
 * 4949 : queue 비었는지 확인 <br>
 * 7662 : queue top/pop 비었을 때 사용하면 오류 <br>
 * 6064 : calendar / 나머지 <br>
+* 13549 : hide and seek 3 / deque <br>
   
 </details>
     
@@ -109,5 +110,6 @@
 * 11053 : longest sequence / dp <br>
 * 12851 : hide and seek 2 / BFS <br>
 * 2096 : climbing down / dp <br>
+* 9465 : sticker / dp <br>
   
 </details>
