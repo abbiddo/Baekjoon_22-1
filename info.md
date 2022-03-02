@@ -8,6 +8,7 @@
 * 2981 나머지를 같게 하는 수 <br>
 * 9421 prime 1 <br>
 * 1753 minimum route <br>
+* 1334 다음 팰린드롬 수 <br>
     
 </details>
     
@@ -29,6 +30,7 @@
 * 1927 : priority_queue 오름차순 (벡터) <br>
 * 2807 : big integer <br>
 * 11403 : 경로 탐색 / 플로이드 워셜 알고리즘 / 삼중 반복문 중복 <br>
+* 1269 : difference of sets / map <br>
     
 </details>
     
