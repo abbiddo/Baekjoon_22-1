@@ -246,3 +246,8 @@
   1327 stepping stone<br>
   2002 overtake<br>
   7562 move knight<br>
+
+* <03.02><br>
+  S 1269 difference of sets (map)<br>
+  X 1334 다음 팰린드롬 수<br>
+  1431 serial number<br>
