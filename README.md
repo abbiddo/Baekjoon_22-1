@@ -251,3 +251,9 @@
   S 1269 difference of sets (map)<br>
   X 1334 다음 팰린드롬 수<br>
   1431 serial number<br>
+    
+* <03.03><br>
+  1564 factorial 5<br>
+  15988 sum 1, 2, 3<br>
+  2553 factorial 1<br>
+  QX 5911 present<br>
