@@ -257,3 +257,8 @@
   15988 sum 1, 2, 3<br>
   2553 factorial 1<br>
   QX 5911 present<br>
+    
+* <03.04><br>
+  H 10830 square of matrix<br>
+  1629 div square<br>
+  2740 multiply matrix<br>
