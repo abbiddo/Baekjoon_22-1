@@ -115,5 +115,6 @@
 * 12851 : hide and seek 2 / BFS <br>
 * 2096 : climbing down / dp <br>
 * 9465 : sticker / dp <br>
+* 10830 : square of matrix <br>
   
 </details>
