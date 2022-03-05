@@ -262,3 +262,7 @@
   H 10830 square of matrix<br>
   1629 div square<br>
   2740 multiply matrix<br>
+
+* <03.05><br>
+  1684 same mod<br>
+  1912 relay sum<br>
