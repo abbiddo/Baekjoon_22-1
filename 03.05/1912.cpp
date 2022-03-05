@@ -9,7 +9,7 @@
 using namespace std;
 
 int a,n,ma,k;
-int dp[100001];
+int arr[100000],dp[100000];
 
 int main(){
 	ios::sync_with_stdio(false);
@@ -17,16 +17,13 @@ int main(){
 	
 	cin>>n;
 	
-	for (int i=1;i<=n;i++){
-		cin>>a;
-		dp[i]=dp[i-1]+a;
-	}
+	for (int i=0;i<n;i++) cin>>arr[i];
 	
-	ma=dp[1];	
-	for (int i=1;i<=n;i++){
-		for (int j=1;j<i;j++){
-			if (dp[j]<0) dp[i]=max(dp[i],dp[i]-dp[j]);
-		}
+	ma=arr[0];
+	dp[0]=arr[0];
+		
+	for (int i=1;i<n;i++){
+		dp[i]=max(dp[i-1]+arr[i],arr[i]);
 		ma=max(dp[i],ma);
 	}
 	
