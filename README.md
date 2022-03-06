@@ -257,7 +257,7 @@
   1564 factorial 5<br>
   15988 sum 1, 2, 3<br>
   2553 factorial 1<br>
-  QX 5911 present<br>
+  D 5911 present<br>
     
 * <03.04><br>
   H 10830 square of matrix<br>
@@ -267,3 +267,6 @@
 * <03.05><br>
   1684 same mod<br>
   1912 relay sum<br>
+    
+* <03.06><br>
+  E 7507 olympic game<br>
