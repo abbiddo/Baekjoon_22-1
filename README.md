@@ -280,3 +280,8 @@
 * <03.10><br>
   15666 N&M 12<br>
   H 9251 LCS<br>
+
+* <03.11><br>
+  1041 dice<br>
+  1490 each div<br>
+  1759 make password<br>
