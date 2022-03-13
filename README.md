@@ -285,3 +285,7 @@
   1041 dice<br>
   1490 each div<br>
   1759 make password<br>
+
+* <03.13><br>
+  2133 3n tile<br>
+  9663 N-Queen<br>
