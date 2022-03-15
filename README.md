@@ -289,3 +289,7 @@
 * <03.13><br>
   2133 3n tile<br>
   9663 N-Queen<br>
+
+* <03.15><br>
+  1083 count sort<br>
+  H 1339 math word<br>
