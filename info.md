@@ -116,5 +116,6 @@
 * 9465 : sticker / dp <br>
 * 10830 : square of matrix <br>
 * 9251 : LCS / dp <br>
+* 1339 : math word / 브루트 포스, 그리디 <br>
   
 </details>
