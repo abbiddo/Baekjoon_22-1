@@ -306,3 +306,6 @@
     
 * <04.27><br>
   17143 reverse word 2<br>
+        
+* <04.29><br>
+  10799 strong stick<br>
