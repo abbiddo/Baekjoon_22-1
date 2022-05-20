@@ -299,8 +299,9 @@
   22945 team building<br>
     
 </details>
- 
-#### ✔ 2022년 04월
+<details>
+    <summary>2022년 04월</summary> 
+
 * <04.12><br>
   1912 infix_to_postfix<br>
     
@@ -309,3 +310,10 @@
         
 * <04.29><br>
   10799 strong stick<br>
+    
+</details>
+
+#### ✔ 2022년 05월
+    
+* <05.20><br>
+  1991 tree traversal<br>
