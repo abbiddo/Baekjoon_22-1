@@ -312,8 +312,15 @@
   10799 strong stick<br>
     
 </details>
-
-#### ✔ 2022년 05월
+<details>
+    <summary>2022년 05월</summary> 
     
 * <05.20><br>
   1991 tree traversal<br>
+    
+</details>
+    
+#### ✔ 2022년 06월
+* <06.23><br>
+  5639 binary search tree<br>
+
