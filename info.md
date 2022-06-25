@@ -9,6 +9,7 @@
 * 9421 prime 1 <br>
 * 1753 minimum route <br>
 * 1334 다음 팰린드롬 수 <br>
+* 1593 문자 해독 <br>
     
 </details>
     
